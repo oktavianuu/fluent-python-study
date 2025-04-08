@@ -1,18 +1,15 @@
-# Fluent Python Study Tracker
+# Fluent Python Study
 
-This repository tracks my journey through Fluent Python by Luciano Ramalho. My goal is to deeply understand Python’s idioms, data model, and advanced features to become a stronger and more Pythonic developer.
+This is my deep dive into *Fluent Python* by Luciano Ramalho — a journey to master Python's internals, idioms, and real-world patterns.
 
-## 🔥 Weekly Progress
+## 📚 What's Inside
 
-See tracker.md for detailed plans and deliverables per chapter.
+- `tracker.md` → Full 10-week study plan
+- `chapters/` → Chapter-by-chapter code, notes, and projects
+- `reflections/` → Daily logs and weekly write-ups to reinforce learning
+- `concepts/` → Visual diagrams + mental models of tough topics
+- `fluentbox/` → My own growing Python library built along the way
 
-## 🧠 Why This Book?
+## 🧠 Why I'm Doing This
 
-Fluent Python explores how to use Python’s features fully and idiomatically. It covers first-class functions, object internals, iterators, decorators, concurrency, and more.
-
-## 🛠️ How I'm Studying
-
-- Code all examples from scratch
-- Take deep notes in each chapter/ subfolder
-- Summarize key takeaways after each chapter
-- Build small projects inspired by concepts
+To level up as a backend/devtools developer, sharpen my problem-solving, and apply deep Python skills to real-world projects like my DNA Scanner app.
