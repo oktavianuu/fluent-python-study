@@ -66,7 +66,7 @@ This tracker follows my study of *Fluent Python* by Luciano Ramalho. The goal is
 
 ---
 
-## ⚔️ Boss Levels – Project Checkpoints
+## ⚔️ Project Checkpoints
 
 | Level | When | Project Focus |
 |------------|------|----------------|
@@ -77,10 +77,10 @@ This tracker follows my study of *Fluent Python* by Luciano Ramalho. The goal is
 
 ---
 
-## 🧠 Extra Ideas
+## 🧠 Extra
 
 - 📝 Daily micro-journal: short notes per study session
-- ✍️ Weekly summary: highlight what you learned, what was hard, and how it connects
-- 🧱 Build your own `fluentbox/` library over time
-- 📊 Track boss levels and reflections for personal growth
+- ✍️ Weekly summary: highlight what I have learned, what was hard, and how it connects
+- 🧱 Build my own `fluentbox/` library over time
+- 📊 Track levels and reflections for personal growth
 - 🧭 Map ideas visually for clarity and deeper understanding
